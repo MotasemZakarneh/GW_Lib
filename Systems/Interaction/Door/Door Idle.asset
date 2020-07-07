@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab04a45c1f0aa347b8a54cd95625e9b, type: 3}
+  m_Name: Door Idle
+  m_EditorClassIdentifier: 
+  stateCommandability:
+    selections: -1
+  stateMemorability:
+    selections: 0
+  uuid: 09762667-12ae-4db4-896a-f524a818053f
+  actions: []
+  transitions: []
