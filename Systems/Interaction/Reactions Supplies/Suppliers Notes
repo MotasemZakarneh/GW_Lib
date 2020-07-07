@@ -1,5 +1,0 @@
-for Door:
-
-IRecieveInteractable >> At Start: Reactions should have it from the start.
-IRecieveCrossesTrigger >> When An AdvancedReactionPoint wants and can to run an interactable.
-IRecieveAiUnits >> When there are succeful AiUnits, they get sent to interactable.
